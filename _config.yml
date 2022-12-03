@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Sheng Cheng"
   avatar           : "profile.png"
-  bio              : "Test bio. [fill in my personal information here]"
-  location         : "Location"
+  bio              : "Postdoctoral Research Associate at UIUC"
+  location         : "Sidney Lu Mechanical Engineering Building, 1206 W. Green St. MC 244, Urbana, IL 61801, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=KFvLTeUAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/Sheng-Cheng-2"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/sheng-cheng/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

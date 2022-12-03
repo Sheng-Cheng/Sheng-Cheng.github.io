@@ -37,3 +37,11 @@ Recent news
 * 2019\/07: Our paper on an optimality gap test of the quadratic program with two quadratic constraints is available on [https://arxiv.org/abs/1907.02989 arXiv]. The associated MATLAB code for the optimality gap test is available on [https://github.com/Sheng-Cheng/QC2QP-SDR-Optimality-Gap-Test GitHub]. 
 * 2019\/01: Our paper on reaching a target in a time-costly area has been accepted at ACC 2019. 
 -->
+
+<!--
+Recent news
+======
+
+Past Projects
+======
+-->

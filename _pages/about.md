@@ -18,7 +18,8 @@ Recent news
 * 2022/09: Our new paper on the control of omnidirection multirotor vehicles has been submitted! The preprint is available on [arxiv](https://arxiv.org/abs/2209.10024). The video can be found [here](https://youtu.be/Ip6MeS7rLhI).
 * 2022/05: We recently open-sourced our implementation of L1 adaptive augmentation on a Mambo quadrotor. Here's the [repo](https://github.com/HovakimyanResearch/L1-Mambo) # We will release our C++ implementation soon this summer!
 * 2022/01: Our paper on L1 augmentation of geometric tracking control for quadrotors has been presented at ICRA 2022! The paper can be accessed [here](https://ieeexplore.ieee.org/document/9811946). The video for experiments can be found [here](https://youtu.be/25Z7iAkZ5xw).
-<!--* 2022\/01: Our paper on optimal estimation of a 2D diffusion-advection process has been accepted for publication by Automatica. The paper can be accessed [https://www.sciencedirect.com/science/article/pii/S0005109821006415 here]
+<!--- begin outdated news
+* 2022\/01: Our paper on optimal estimation of a 2D diffusion-advection process has been accepted for publication by Automatica. The paper can be accessed [https://www.sciencedirect.com/science/article/pii/S0005109821006415 here]
 * 2021\/07: I will join UIUC as a Postdoctoral Research Associate working with Prof. Naira Hovakimyan since Fall 2021.
 * 2021\/06: Our paper on optimal control of a 2D diffusion-advection process has been accepted for publication by Automatica. The paper can be accessed [https://www.sciencedirect.com/science/article/pii/S0005109821003873?dgcid=author here].
 * 2021\/05: I defended my Ph.D. dissertation titled "Optimal estimation and control of a distributed parameter system by a team of mobile sensors and actuators" successfully.
@@ -36,7 +37,7 @@ Recent news
 * 2019\/09: Our work on cooperative map and search is featured in this [https://youtu.be/9wEo0hH-psg video].
 * 2019\/07: Our paper on an optimality gap test of the quadratic program with two quadratic constraints is available on [https://arxiv.org/abs/1907.02989 arXiv]. The associated MATLAB code for the optimality gap test is available on [https://github.com/Sheng-Cheng/QC2QP-SDR-Optimality-Gap-Test GitHub]. 
 * 2019\/01: Our paper on reaching a target in a time-costly area has been accepted at ACC 2019. 
--->
+end outdated news --->
 
 <!--
 Recent news

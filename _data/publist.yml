@@ -1,0 +1,11 @@
+- title: "An Optimality Gap Test for a Semidefinite Relaxation of a Quadratic Program with Two Quadratic Constraints"
+  image: imageaward_edited.png
+  description: something
+  authors: S Cheng, N. C. Martins
+  link:
+    url: https://epubs.siam.org/doi/abs/10.1137/19M1273761
+    display: SIAM Journal on Optimization
+  highlight: 1
+  news2: See [code](https://github.com/Sheng-Cheng/QC2QP-SDR-Optimality-Gap-Test)
+# news2: "see hyperlink1, hyperlink2,"
+# news1: red, highlight, e.g.,  <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>

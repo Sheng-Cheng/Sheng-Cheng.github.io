@@ -10,7 +10,7 @@ redirect_from:
 Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Prof. [Naira Hovakimyan](https://naira.mechse.illinois.edu/). I received my Ph.D. in Electrical Engineering from the University of Maryland, under the supervision of Prof. [Derek A. Paley](https://aero.umd.edu/clark/faculty/58/Derek-A-Paley) in 2021. My Curriculum Vitae can be found [here](https://shengcheng.web.illinois.edu/file/CV_Sheng_UIUC_20220927.pdf).
 
 Recent news
-======
+------
 * 2022/12: Our new paper on DiffTune+ has been submitted!
 * 2022/11: Our new paper on fast UAV trajectory planning via simultaneous spatial and temporal assignments has been submitted! The preprint is available on [arxiv](https://arxiv.org/abs/2211.15902).
 * 2022/11: A compilation of demos for robust quadrotor flight against uncertainties is available on [video](https://youtu.be/18-2OqTRJ50). The paper will be submitted soon.
@@ -32,7 +32,7 @@ Publications
 . *S. Cheng*, "[http://hdl.handle.net/1903/21417 Reaching a target within a GPS-denied or costly area: a two-stage optimal control approach]," M.S. Thesis, University of Maryland, College Park, MD, 2018.
 --->
 
-------
+======
 **Conference papers**
 1. **S. Cheng**, L. Song, M. Kim, S. Wang, N. Hovakimyan, "DiffTune+: Hyperparameter-Free Auto-Tuning using Auto-Differentiation" submitted. 
 1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "DiffTune: Auto-Tuning through Auto-Differentiation," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10021 preprint) \| [\[video\]](https://youtu.be/otAv1EJF7EA)
@@ -43,13 +43,10 @@ Publications
 1. **S. Cheng** and D. A. Paley, "Optimal control of a 1D diffusion process with a team of mobile actuators under jointly optimal guidance," in Proceedings of the 2020 American Control Conference, pp. 3449-3454, 2020. [\[link\]](https://ieeexplore.ieee.org/abstract/document/9147830) \| [\[slides\]](file/ACC2020_slides_noBackup_public.pptx) \| [\[video\]](https://youtu.be/0avnDGVcMyc)
 1. **S. Cheng** and N. C. Martins, "Reaching a target in a time-costly area using a two-stage optimal control method," in Proceedings of the 2019 American Control Conference, pp. 4903-4910, 2019. [\[link\]](https://ieeexplore.ieee.org/document/8815119) \| [\[slides\]](file/ACC_2019_Slide.pdf) 
 
-------
+======
 **Workshop papers**
+1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "An Auto-Tuning Framework for Controllers using Auto-Differentiation," accepted by CoRL workshop Learning to Adapt and Improve in the Real World (RoboAdapt), 2022.
 
-<!--
-Recent news
-======
-
-Past Projects
-======
--->
+<!---
+Honors and awards
+--->

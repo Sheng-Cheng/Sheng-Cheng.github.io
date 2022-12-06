@@ -32,7 +32,6 @@ Publications
 . *S. Cheng*, "[http://hdl.handle.net/1903/21417 Reaching a target within a GPS-denied or costly area: a two-stage optimal control approach]," M.S. Thesis, University of Maryland, College Park, MD, 2018.
 --->
 
-======
 **Conference papers**
 1. **S. Cheng**, L. Song, M. Kim, S. Wang, N. Hovakimyan, "DiffTune+: Hyperparameter-Free Auto-Tuning using Auto-Differentiation" submitted. 
 1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "DiffTune: Auto-Tuning through Auto-Differentiation," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10021 preprint) \| [\[video\]](https://youtu.be/otAv1EJF7EA)
@@ -43,7 +42,6 @@ Publications
 1. **S. Cheng** and D. A. Paley, "Optimal control of a 1D diffusion process with a team of mobile actuators under jointly optimal guidance," in Proceedings of the 2020 American Control Conference, pp. 3449-3454, 2020. [\[link\]](https://ieeexplore.ieee.org/abstract/document/9147830) \| [\[slides\]](file/ACC2020_slides_noBackup_public.pptx) \| [\[video\]](https://youtu.be/0avnDGVcMyc)
 1. **S. Cheng** and N. C. Martins, "Reaching a target in a time-costly area using a two-stage optimal control method," in Proceedings of the 2019 American Control Conference, pp. 4903-4910, 2019. [\[link\]](https://ieeexplore.ieee.org/document/8815119) \| [\[slides\]](file/ACC_2019_Slide.pdf) 
 
-======
 **Workshop papers**
 1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "An Auto-Tuning Framework for Controllers using Auto-Differentiation," accepted by CoRL workshop Learning to Adapt and Improve in the Real World (RoboAdapt), 2022.
 

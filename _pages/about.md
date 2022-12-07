@@ -11,7 +11,7 @@ Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Pro
 
 Recent news
 ------
-* 2022/12: Our new paper on DiffTune+ has been submitted!
+* 2022/12: Our new paper on DiffTune+ has been submitted! The preprint is available on [arXiv](https://arxiv.org/abs/2212.03194).
 * 2022/11: Our new paper on fast UAV trajectory planning via simultaneous spatial and temporal assignments has been submitted! The preprint is available on [arxiv](https://arxiv.org/abs/2211.15902).
 * 2022/11: A compilation of demos for robust quadrotor flight against uncertainties is available on [video](https://youtu.be/18-2OqTRJ50). The paper will be submitted soon.
 * 2022/09: Our new paper on DiffTune has been submitted! The preprint is available on [arxiv](https://arxiv.org/abs/2209.10021). The video can be found [here](https://youtu.be/otAv1EJF7EA).
@@ -33,7 +33,7 @@ Publications
 --->
 
 **Conference papers**
-1. **S. Cheng**, L. Song, M. Kim, S. Wang, N. Hovakimyan, "DiffTune+: Hyperparameter-Free Auto-Tuning using Auto-Differentiation" submitted. 
+1. **S. Cheng**, L. Song, M. Kim, S. Wang, N. Hovakimyan, "DiffTune+: Hyperparameter-Free Auto-Tuning using Auto-Differentiation" submitted.  [\[arXiv\]](https://arxiv.org/abs/2212.03194)
 1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "DiffTune: Auto-Tuning through Auto-Differentiation," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10021 preprint) \| [\[video\]](https://youtu.be/otAv1EJF7EA)
 1. H. Lee, **S. Cheng**, Z. Wu, N. Hovakimyan, "Geometric Tracking Control of Omnidirectional Multirotors in the Presence of Rotor Dynamics," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10024) \| [\[video\]](https://youtu.be/Ip6MeS7rLhI)
 1. Z. Wu, **S.Cheng**, K. A. Ackerman, A. Gahlawat, A. Lakshmanan, P. Zhao, N. Hovakimyan, "L1 Adaptive Augmentation for Geometric Tracking Control of Quadrotors," in Proceedings of the International Conference on Robotics and Automation (ICRA), 2022, pp. 1329–1336. [\[paper\]](https://ieeexplore.ieee.org/document/9811946) \| [\[code\]](https://github.com/HovakimyanResearch/L1-Mambo) \| [\[video\]](https://youtu.be/25Z7iAkZ5xw)

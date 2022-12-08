@@ -16,7 +16,7 @@ Recent news
 * 2022/11: A compilation of demos for robust quadrotor flight against uncertainties is available on [video](https://youtu.be/18-2OqTRJ50). The paper will be submitted soon.
 * 2022/09: Our new paper on DiffTune has been submitted! The preprint is available on [arxiv](https://arxiv.org/abs/2209.10021). The video can be found [here](https://youtu.be/otAv1EJF7EA).
 * 2022/09: Our new paper on the control of omnidirection multirotor vehicles has been submitted! The preprint is available on [arxiv](https://arxiv.org/abs/2209.10024). The video can be found [here](https://youtu.be/Ip6MeS7rLhI).
-* 2022/05: We recently open-sourced our implementation of L1 adaptive augmentation on a Mambo quadrotor. Here's the [repo](https://github.com/HovakimyanResearch/L1-Mambo) # We will release our C++ implementation soon this summer!
+* 2022/05: We recently open-sourced our implementation of L1 adaptive augmentation on a Mambo quadrotor. Here's the [repo](https://github.com/HovakimyanResearch/L1-Mambo) <!--- We will release our C++ implementation soon this summer!--->
 * 2022/01: Our paper on L1 augmentation of geometric tracking control for quadrotors has been presented at ICRA 2022! The paper can be accessed [here](https://ieeexplore.ieee.org/document/9811946). The video for experiments can be found [here](https://youtu.be/25Z7iAkZ5xw).
 
 Publications
@@ -45,6 +45,16 @@ Publications
 **Workshop papers**
 1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "An Auto-Tuning Framework for Controllers using Auto-Differentiation," accepted by CoRL workshop Learning to Adapt and Improve in the Real World (RoboAdapt), 2022.
 
-<!---
+
 Honors and awards
---->
+------
+* Excellent Reviewer, Journal of Guidance, Control, and Dynamics (2022)
+* Graduate School Summer Fellowship, University of Maryland (2021) <!--- for students delayed by COVID-19. --->
+* Student Travel Award, ACC, CDC, SIAM DS <!--- ACC (2019 2020 2021) CDC (2020) SIAM DS (2021)--->
+* Future Faculty Fellow, A. James Clark School of Engineering, University of Maryland (2018)
+* George Corcoran Award, Department of Electrical and Computer Engineering, University of Maryland (2016)
+* Teaching Assistant Training and Development (TATD) Fellow, Department of Electrical and Computer Engineering, University of Maryland (2015-2016) 
+* International Teaching Fellow (ITF), Teaching & Learning Transformation Center, University of Maryland (2015-2016) 
+* Distinguished Teaching Assistant Award, Department of Electrical and Computer Engineering, University of Maryland (2015)
+* Outstanding Undergraduate Thesis Award, Department of Control Science and Engineering, Harbin Institute of Technology (2014) <!---thesis title: "Design of the GPS/MEMS IMU
+Combined Navigation System"--->

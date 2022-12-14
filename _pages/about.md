@@ -11,6 +11,7 @@ Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Pro
 
 Recent news
 ------
+* 2022/12: I will give a spotlight talk on DiffTune at the RoboAdapt Workshop at CoRL 2022. The schedule can be found [here](https://sites.google.com/view/roboadapt/schedule?authuser=0).
 * 2022/12: Our new paper on DiffTune+ has been submitted! The preprint is available on [arXiv](https://arxiv.org/abs/2212.03194).
 * 2022/11: Our new paper on fast UAV trajectory planning via simultaneous spatial and temporal assignments has been submitted! The preprint is available on [arxiv](https://arxiv.org/abs/2211.15902).
 * 2022/11: A compilation of demos for robust quadrotor flight against uncertainties is available on [video](https://youtu.be/18-2OqTRJ50). The paper will be submitted soon.

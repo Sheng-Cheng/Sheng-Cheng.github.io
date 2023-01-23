@@ -7,18 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Prof. [Naira Hovakimyan](https://naira.mechse.illinois.edu/). I received my Ph.D. in Electrical Engineering from the University of Maryland, under the supervision of Prof. [Derek A. Paley](https://aero.umd.edu/clark/faculty/58/Derek-A-Paley) in 2021. My Curriculum Vitae can be found [here](https://shengcheng.web.illinois.edu/file/CV_Sheng_UIUC_20220927.pdf).
+Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Prof. [Naira Hovakimyan](https://naira.mechse.illinois.edu/) and I'm leading the ACRL Multirotor Team. I received my Ph.D. in Electrical Engineering from the University of Maryland, under the supervision of Prof. [Derek A. Paley](https://aero.umd.edu/clark/faculty/58/Derek-A-Paley) in 2021. My Curriculum Vitae can be found [here](https://shengcheng.web.illinois.edu/file/CV_Sheng_UIUC_20220927.pdf).
 
 Recent news
 ------
+* 2023/01: Our L1Quad video has been featured by IEEE Spectrum’s [Video Friday](https://spectrum.ieee.org/video-friday-robots-at-night#:~:text=Quadrotors%20are%20deployed,case%20by%20case.). Thanks, IEEE Spectrum!
 * 2022/12: I will give a spotlight talk on DiffTune at the RoboAdapt Workshop at CoRL 2022. The schedule can be found [here](https://sites.google.com/view/roboadapt/schedule?authuser=0).
 * 2022/12: Our new paper on DiffTune+ has been submitted! The preprint is available on [arXiv](https://arxiv.org/abs/2212.03194).
 * 2022/11: Our new paper on fast UAV trajectory planning via simultaneous spatial and temporal assignments has been submitted! The preprint is available on [arxiv](https://arxiv.org/abs/2211.15902).
-* 2022/11: A compilation of demos for robust quadrotor flight against uncertainties is available on [video](https://youtu.be/18-2OqTRJ50). The paper will be submitted soon.
+* 2022/11: A compilation of demos for robust quadrotor flight against uncertainties (L1Quad) is available on [video](https://youtu.be/18-2OqTRJ50). The paper will be submitted soon.
 * 2022/09: Our new paper on DiffTune has been submitted! The preprint is available on [arxiv](https://arxiv.org/abs/2209.10021). The video can be found [here](https://youtu.be/otAv1EJF7EA).
 * 2022/09: Our new paper on the control of omnidirection multirotor vehicles has been submitted! The preprint is available on [arxiv](https://arxiv.org/abs/2209.10024). The video can be found [here](https://youtu.be/Ip6MeS7rLhI).
 * 2022/05: We recently open-sourced our implementation of L1 adaptive augmentation on a Mambo quadrotor. Here's the [repo](https://github.com/HovakimyanResearch/L1-Mambo) <!--- We will release our C++ implementation soon this summer!--->
-* 2022/01: Our paper on L1 augmentation of geometric tracking control for quadrotors has been presented at ICRA 2022! The paper can be accessed [here](https://ieeexplore.ieee.org/document/9811946). The video for experiments can be found [here](https://youtu.be/25Z7iAkZ5xw).
+<!--- * 2022/01: Our paper on L1 augmentation of geometric tracking control for quadrotors has been presented at ICRA 2022! The paper can be accessed [here](https://ieeexplore.ieee.org/document/9811946). The video for experiments can be found [here](https://youtu.be/25Z7iAkZ5xw). --->
 
 Publications
 ------
@@ -44,14 +45,14 @@ Publications
 1. **S. Cheng** and N. C. Martins, "Reaching a target in a time-costly area using a two-stage optimal control method," in Proceedings of the 2019 American Control Conference, pp. 4903-4910, 2019. [\[link\]](https://ieeexplore.ieee.org/document/8815119) \| [\[slides\]](file/ACC_2019_Slide.pdf) 
 
 **Workshop papers**
-1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "An Auto-Tuning Framework for Controllers using Auto-Differentiation," accepted by CoRL workshop Learning to Adapt and Improve in the Real World (RoboAdapt), 2022.
+1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "An Auto-Tuning Framework for Controllers using Auto-Differentiation," presented at CoRL workshop Learning to Adapt and Improve in the Real World (RoboAdapt), 2022.
 
 
 Honors and awards
 ------
 * Excellent Reviewer, Journal of Guidance, Control, and Dynamics (2022)
 * Graduate School Summer Fellowship, University of Maryland (2021) <!--- for students delayed by COVID-19. --->
-* Student Travel Award, ACC, CDC, SIAM DS <!--- ACC (2019 2020 2021) CDC (2020) SIAM DS (2021)--->
+* Student Travel Award, ACC, IFAC WC, CDC, SIAM DS <!--- ACC (2019 2020 2021) CDC (2020) SIAM DS (2021)--->
 * Future Faculty Fellow, A. James Clark School of Engineering, University of Maryland (2018)
 * George Corcoran Award, Department of Electrical and Computer Engineering, University of Maryland (2016)
 * Teaching Assistant Training and Development (TATD) Fellow, Department of Electrical and Computer Engineering, University of Maryland (2015-2016) 
@@ -59,3 +60,10 @@ Honors and awards
 * Distinguished Teaching Assistant Award, Department of Electrical and Computer Engineering, University of Maryland (2015)
 * Outstanding Undergraduate Thesis Award, Department of Control Science and Engineering, Harbin Institute of Technology (2014) <!---thesis title: "Design of the GPS/MEMS IMU
 Combined Navigation System"--->
+
+Service
+------
+* Journal Reviewer: Automatica, Journal of Guidance, Control, and Dynamics, IEEETransactions on Control Systems Technology, IEEE Transactions on Industrial Informatics,IEEE Control Systems Letters
+* Conference Reviewer: CoRL, ICRA, IFAC WC, CDC, ACC, and DARS-SWARM
+* Member of the IEEE CSS Technical Committee on Intelligent Control
+

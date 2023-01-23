@@ -15,8 +15,7 @@ Quadrotors are deployed to more and more applications nowadays. Yet quadrotors' 
 #### DiffTune
 <iframe width="560" height="315" src="https://www.youtube.com/embed/otAv1EJF7EA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Will be updated soon!
-<---
-The performance of a robot controller depends on the choice of its parameters, which require careful tuning. In this project, we present DiffTune, a novel, gradient-based automatic tuning framework. Our method unrolls the dynamical system and controller as a computational graph and updates the controller parameters through gradient-based optimization. The gradient are updated using auto-differentiation techniques with real data collected from the system.---!>
+<!--- The performance of a robot controller depends on the choice of its parameters, which require careful tuning. In this project, we present DiffTune, a novel, gradient-based automatic tuning framework. Our method unrolls the dynamical system and controller as a computational graph and updates the controller parameters through gradient-based optimization. The gradient are updated using auto-differentiation techniques with real data collected from the system. --->
 
 ## Past projects
 #### Mobile estimation and control of a dynamical spatiotemporal process

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Prof. [Naira Hovakimyan](https://naira.mechse.illinois.edu/) and I'm leading the ACRL Multirotor Team. I received my Ph.D. in Electrical Engineering from the University of Maryland, under the supervision of Prof. [Derek A. Paley](https://aero.umd.edu/clark/faculty/58/Derek-A-Paley) in 2021. My Curriculum Vitae can be found [here](https://shengcheng.web.illinois.edu/file/CV_Sheng_UIUC_20220927.pdf).
+Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Prof. [Naira Hovakimyan](https://naira.mechse.illinois.edu/) and I'm leading the ACRL Multirotor Team. I received my Ph.D. in Electrical Engineering from the University of Maryland, under the supervision of Prof. [Derek A. Paley](https://aero.umd.edu/clark/faculty/58/Derek-A-Paley) in 2021. My Curriculum Vitae can be found [here](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/files/CV_Sheng_UIUC.pdf).
 
 Recent news
 ------

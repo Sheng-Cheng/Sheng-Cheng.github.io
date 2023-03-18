@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-------
 **Journal articles**
 1. Q. Chen, **S. Cheng**, N. Hovakimyan, "Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization," submitted. [\[arXiv\]](https://arxiv.org/abs/2211.15902)
 1. **S. Cheng** and D. A. Paley, "Optimal guidance and estimation of a 2D diffusion-advection process by a team of mobile sensors," Automatica, vol. 137, p. 110112, 2022. [\[link\]](https://www.sciencedirect.com/science/article/pii/S0005109821006415)
@@ -31,14 +29,3 @@ Publications
 **Workshop papers**
 1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "An Auto-Tuning Framework for Controllers using Auto-Differentiation," presented at CoRL workshop Learning to Adapt and Improve in the Real World (RoboAdapt), 2022.
 
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
- -->

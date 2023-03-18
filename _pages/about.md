@@ -21,7 +21,7 @@ Recent news
 * 2022/05: We recently open-sourced our implementation of L1 adaptive augmentation on a Mambo quadrotor. Here's the [repo](https://github.com/HovakimyanResearch/L1-Mambo) <!--- We will release our C++ implementation soon this summer!--->
 <!--- * 2022/01: Our paper on L1 augmentation of geometric tracking control for quadrotors has been presented at ICRA 2022! The paper can be accessed [here](https://ieeexplore.ieee.org/document/9811946). The video for experiments can be found [here](https://youtu.be/25Z7iAkZ5xw). --->
 
-Publications
+<!-- Publications
 ------
 **Journal articles**
 1. Q. Chen, **S. Cheng**, N. Hovakimyan, "Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization," submitted. [\[arXiv\]](https://arxiv.org/abs/2211.15902)
@@ -45,7 +45,7 @@ Publications
 1. **S. Cheng** and N. C. Martins, "Reaching a target in a time-costly area using a two-stage optimal control method," in Proceedings of the 2019 American Control Conference, pp. 4903-4910, 2019. [\[link\]](https://ieeexplore.ieee.org/document/8815119) \| [\[slides\]](file/ACC_2019_Slide.pdf) 
 
 **Workshop papers**
-1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "An Auto-Tuning Framework for Controllers using Auto-Differentiation," presented at CoRL workshop Learning to Adapt and Improve in the Real World (RoboAdapt), 2022.
+1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "An Auto-Tuning Framework for Controllers using Auto-Differentiation," presented at CoRL workshop Learning to Adapt and Improve in the Real World (RoboAdapt), 2022. -->
 
 
 Honors and awards
@@ -67,4 +67,6 @@ Service
 * Conference Reviewer: CoRL, ICRA, IFAC WC, CDC, ACC, and DARS-SWARM
 * Member of the IEEE CSS Technical Committee on Intelligent Control
 
+Visitors
+------
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=oXLUS-3Iesx-b_7fwyX7vOsyE4f4gwugR3oIU_mKEf4"></script>

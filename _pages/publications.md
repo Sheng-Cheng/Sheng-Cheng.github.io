@@ -1,13 +1,6 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
-permalink: /publications/
-author_profile: true
---- -->
-
----
-title: "Publications"
-excerpt: "Publications"
 permalink: /publications/
 author_profile: true
 ---

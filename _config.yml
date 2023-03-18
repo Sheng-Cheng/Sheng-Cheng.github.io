@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Sheng Cheng"
-  avatar           : "profile.png"
+  avatar           : "bio.jpg"
   bio              : "Postdoctoral Research Associate at UIUC"
   location         : "Urbana, IL, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=KFvLTeUAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Sheng-Cheng-2"
+  researchgate     :  "https://www.researchgate.net/profile/Sheng-Cheng-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Sheng-Cheng"
+  github           : "https://github.com/Sheng-Cheng"
   google_plus      :
   keybase          :
   instagram        :

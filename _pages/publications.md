@@ -6,9 +6,9 @@ author_profile: true
 --- -->
 
 ---
-permalink: /publications/
 title: "Publications"
 excerpt: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 

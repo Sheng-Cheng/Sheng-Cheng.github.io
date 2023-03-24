@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Journal articles**
-1. Z. Wu, **S.Cheng**, P. Zhao, A. Gahlawat, K. A. Ackerman, A. Lakshmanan, C. Yang, J. Yu, N. Hovakimyan, "L1Quad: L1 Adaptive Augmentation of Geometric Control for Agile Quadrotors with Performance Guarantees," under review. [\[arxiv\]](https://arxiv.org/abs/2302.07208) \| [\[video\]](https://youtu.be/18-2OqTRJ50)
+1. Z. Wu, **S. Cheng**, P. Zhao, A. Gahlawat, K. A. Ackerman, A. Lakshmanan, C. Yang, J. Yu, N. Hovakimyan, "L1Quad: L1 Adaptive Augmentation of Geometric Control for Agile Quadrotors with Performance Guarantees," under review. [\[arxiv\]](https://arxiv.org/abs/2302.07208) \| [\[video\]](https://youtu.be/18-2OqTRJ50)
 1. Q. Chen, **S. Cheng**, N. Hovakimyan, "Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization," under review. [\[arXiv\]](https://arxiv.org/abs/2211.15902)
 1. **S. Cheng** and D. A. Paley, "Optimal guidance and estimation of a 2D diffusion-advection process by a team of mobile sensors," Automatica, vol. 137, p. 110112, 2022. [\[link\]](https://www.sciencedirect.com/science/article/pii/S0005109821006415)
 1. **S. Cheng** and D. A. Paley, "Cooperative estimation and control of a diffusion based spatiotemporal process using mobile sensors and actuators," under review.
@@ -18,6 +18,7 @@ author_profile: true
 --->
 
 **Conference papers**
+1. L. Song, Y. Li, **S. Cheng**, P. Zhao, S. Mitra, N. Hovakimyan, Verification of L1 Adaptive Control using Verse Library: A Case Study of Quadrotors, In Proceedings of 13th IEEE International Conference on Cyber Physical Systems (ICCPS) Demo/Poster/Work-in-Progress, San Antonio, TX, 2023. (to appear)
 1. **S. Cheng**, L. Song, M. Kim, S. Wang, N. Hovakimyan, "DiffTune+: Hyperparameter-Free Auto-Tuning using Auto-Differentiation," accepted by the 5th L4DC Conference.  [\[arXiv\]](https://arxiv.org/abs/2212.03194)
 1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "DiffTune: Auto-Tuning through Auto-Differentiation," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10021) \| [\[video\]](https://youtu.be/otAv1EJF7EA)
 1. H. Lee, **S. Cheng**, Z. Wu, N. Hovakimyan, "Geometric Tracking Control of Omnidirectional Multirotors in the Presence of Rotor Dynamics," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10024) \| [\[video\]](https://youtu.be/Ip6MeS7rLhI)

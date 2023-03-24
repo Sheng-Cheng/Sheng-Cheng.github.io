@@ -24,6 +24,13 @@ See more info at https://academicpages.github.io/
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
+## Notes for myself
+
+1. The homepage style and displayed items on the left (google scholoar, linkedin, twitter...) can be edited [here](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_config.yml)
+1. The tabs on top can be managed [here](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_data/navigation.yml)
+1. Current tabs can be edited in the .md files under /_pages: [homepage](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_pages/about.md), [Research] (https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_pages/research.md), [Publications](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_pages/publications.md), [Teaching](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_pages/teaching.md), and Talks (still under construction and need to set up a .md file instead of .html.)
+
+
 # Changelog -- bugfixes and enhancements
 
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 

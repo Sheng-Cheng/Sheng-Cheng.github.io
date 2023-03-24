@@ -28,7 +28,7 @@ See more info at https://academicpages.github.io/
 
 1. The homepage style and displayed items on the left (google scholoar, linkedin, twitter...) can be edited [here](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_config.yml)
 1. The tabs on top can be managed [here](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_data/navigation.yml)
-1. Current tabs can be edited in the .md files under /_pages: [homepage](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_pages/about.md), [Research] (https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_pages/research.md), [Publications](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_pages/publications.md), [Teaching](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_pages/teaching.md), and Talks (still under construction and need to set up a .md file instead of .html.)
+1. Current tabs can be edited in the .md files under /_pages: [homepage](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_pages/about.md), [Research](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_pages/research.md), [Publications](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_pages/publications.md), [Teaching](https://github.com/Sheng-Cheng/Sheng-Cheng.github.io/blob/master/_pages/teaching.md), and Talks (still under construction and need to set up a .md file instead of .html.)
 
 
 # Changelog -- bugfixes and enhancements

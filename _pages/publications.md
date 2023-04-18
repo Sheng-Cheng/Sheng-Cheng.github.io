@@ -19,7 +19,7 @@ author_profile: true
 
 **Conference papers**
 1. L. Song, Y. Li, **S. Cheng**, P. Zhao, S. Mitra, N. Hovakimyan, Verification of L1 Adaptive Control using Verse Library: A Case Study of Quadrotors, In Proceedings of 13th IEEE International Conference on Cyber Physical Systems (ICCPS) Demo/Poster/Work-in-Progress, San Antonio, TX, 2023. (to appear)
-1. **S. Cheng**, L. Song, M. Kim, S. Wang, N. Hovakimyan, "DiffTune+: Hyperparameter-Free Auto-Tuning using Auto-Differentiation," accepted by the 5th L4DC Conference.  [\[arXiv\]](https://arxiv.org/abs/2212.03194)
+1. **S. Cheng**, L. Song, M. Kim, S. Wang, N. Hovakimyan, "DiffTune+: Hyperparameter-Free Auto-Tuning using Auto-Differentiation," accepted by the 5th L4DC Conference for **oral presentation**.  [\[arXiv\]](https://arxiv.org/abs/2212.03194)
 1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "DiffTune: Auto-Tuning through Auto-Differentiation," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10021) \| [\[video\]](https://youtu.be/otAv1EJF7EA)
 1. H. Lee, **S. Cheng**, Z. Wu, N. Hovakimyan, "Geometric Tracking Control of Omnidirectional Multirotors in the Presence of Rotor Dynamics," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10024) \| [\[video\]](https://youtu.be/Ip6MeS7rLhI)
 1. Z. Wu, **S.Cheng**, K. A. Ackerman, A. Gahlawat, A. Lakshmanan, P. Zhao, N. Hovakimyan, "L1 Adaptive Augmentation for Geometric Tracking Control of Quadrotors," in Proceedings of the International Conference on Robotics and Automation (ICRA), 2022, pp. 1329–1336. [\[paper\]](https://ieeexplore.ieee.org/document/9811946) \| [\[code\]](https://github.com/HovakimyanResearch/L1-Mambo) \| [\[video\]](https://youtu.be/25Z7iAkZ5xw)

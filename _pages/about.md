@@ -11,6 +11,7 @@ Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Pro
 
 Recent news
 ------
+* 2023/05: We open-sourced our [DiffTune toolset](https://github.com/Sheng-Cheng/DiffTuneOpenSource). Feel free to apply it to your tuning application!
 * 2023/04: Our new paper on hyperparameter-free auto-tuning using DiffTune has been accepted by L4DC for oral presentation (16 selected out of 167 submissions)! The preprint is available [here]([https://youtu.be/i8Lms1cOoyI](https://arxiv.org/abs/2212.03194)). See you in Philly!
 * 2023/04: Our new paper on cooperative estimation and control of a diffusion-based spatiotemporal process has been accepted by Autonomous Robots! The demo experiment can be found [here](https://youtu.be/i8Lms1cOoyI). Paper can be accessed [here](https://link.springer.com/article/10.1007/s10514-023-10105-9).
 * 2023/04: Our new paper on fast UAV trajectory planning via simultaneous spatial and temporal assignments has been accepted by IEEE RA-L! The preprint is available on [arxiv](https://arxiv.org/abs/2211.15902).

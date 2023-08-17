@@ -11,7 +11,7 @@ Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Pro
 
 Recent news
 ------
-* 2023/08: Our new preprint on DiffTune is available on [arxiv](https://arxiv.org/abs/2209.10021). The video can be found [here](https://youtu.be/g42UxcIHUdg). Feel free to try DiffTune using our open-sourced toolset: [repo](https://github.com/Sheng-Cheng/DiffTuneOpenSource). 
+* 2023/08: Our new preprint on DiffTune is available on [arxiv](https://arxiv.org/abs/2209.10021). The video can be found [here](https://youtu.be/g42UxcIHUdg). Feel free to try DiffTune using our open-sourced [toolset](https://github.com/Sheng-Cheng/DiffTuneOpenSource). 
 * 2023/08: I gave a talk at the Long Feng Science Forum at CUHK-Shenzhen.
 * 2023/07: I gave an invited talk at the [Robotics and Perception Group](https://rpg.ifi.uzh.ch/) at the University of Zurich.
 * 2023/04: Our new paper on hyperparameter-free auto-tuning using DiffTune has been accepted by L4DC for oral presentation (16 selected out of 167 submissions)! The preprint is available [here]([https://youtu.be/i8Lms1cOoyI](https://arxiv.org/abs/2212.03194)). The presentation is available [here](https://www.youtube.com/live/9dk6tRNxUU8?feature=share&t=22479). 

@@ -9,15 +9,15 @@ author_profile: true
 
 Current projects
 ------
+**DiffTune**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g42UxcIHUdg?si=jd7aPFCTjPxSSGyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The performance of a robot controller depends on the choice of its parameters, which require careful tuning. In this project, we present DiffTune, a novel, gradient-based automatic tuning framework. Our method unrolls the dynamical system and controller as a computational graph and updates the controller parameters through gradient-based optimization. The gradients are updated using sensitivity propagation (inspired by the forward-mode auto-differentiation) with real data collected from the system. 
+
 **L1Quad**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/18-2OqTRJ50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Quadrotors are deployed to more and more applications nowadays. Yet quadrotors' flight performance is subject to various uncertainties and disturbances, e.g., ground effect, slosh payload, damaged propeller, downwash, and sudden weight change, just to name a few. In this project, we propose L1Quad: an L1 adaptive augmentation for compensating for the uncertainties and disturbances experienced by the quadrotor. We lump all the uncertainties and disturbances experienced by the quadrotor as unknown additive forces and moments which impact the quadrotor’s dynamics. An L1 adaptive augmentation is designed to estimate and compensate for these lumped uncertainties and disturbances. The video below shows the superior performance of L1Quad in various challenging scenarios without retuning the controller parameters case-by-case. All the demos were conducted on a custom-built quadrotor controlled by a Pixhawk flight controller running our customized Ardupilot firmware.  
-
-**DiffTune**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/otAv1EJF7EA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-The performance of a robot controller depends on the choice of its parameters, which require careful tuning. In this project, we present DiffTune, a novel, gradient-based automatic tuning framework. Our method unrolls the dynamical system and controller as a computational graph and updates the controller parameters through gradient-based optimization. The gradients are updated using sensitivity propagation (inspired by the forward-mode auto-differentiation) with real data collected from the system. 
 
 Past projects
 ------

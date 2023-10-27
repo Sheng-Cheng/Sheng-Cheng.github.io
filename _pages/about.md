@@ -11,6 +11,7 @@ Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Pro
 
 Recent news
 ------
+* 2023/09: Our research and student team have been featured on MechSE news. Check for more details [here](https://mechse.illinois.edu/news/stories/up-in-the-air).
 * 2023/08: Our new preprint on DiffTune is available on [arxiv](https://arxiv.org/abs/2209.10021). The video can be found [here](https://youtu.be/g42UxcIHUdg). Feel free to try DiffTune using our open-sourced [toolset](https://github.com/Sheng-Cheng/DiffTuneOpenSource). 
 * 2023/08: I gave a talk at the Long Feng Science Forum at CUHK-Shenzhen.
 * 2023/07: I gave an invited talk at the [Robotics and Perception Group](https://rpg.ifi.uzh.ch/) at the University of Zurich.

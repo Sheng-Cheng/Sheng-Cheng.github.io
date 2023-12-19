@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Journal articles**
+1. R. Tao, **S. Cheng**, X. Wang, S. Wang, N Hovakimyan, "DiffTune-MPC: Closed-Loop Learning for Model Predictive Control," under review, 2023.
 1. **S. Cheng**, M. Kim, L. Song, C. Yang, Y. Jin, S. Wang, N. Hovakimyan, "DiffTune: Auto-Tuning through Auto-Differentiation," under revision for IEEE Transactions on Robotics. [\[arXiv\]](https://arxiv.org/abs/2209.10021) \| [\[video\]](https://youtu.be/g42UxcIHUdg) \|  [\[code\]](https://github.com/Sheng-Cheng/DiffTuneOpenSource)
 1. Z. Wu, **S. Cheng**, P. Zhao, A. Gahlawat, K. A. Ackerman, A. Lakshmanan, C. Yang, J. Yu, N. Hovakimyan, "L1Quad: L1 Adaptive Augmentation of Geometric Control for Agile Quadrotors with Performance Guarantees," under review. [\[arxiv\]](https://arxiv.org/abs/2302.07208) \| [\[video\]](https://youtu.be/18-2OqTRJ50) \| [\[code\]](https://github.com/Sheng-Cheng/ardupilot/tree/ACRL-master-L1AC)
 1. Q. Chen, **S. Cheng**, N. Hovakimyan, "Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization," IEEE Robotics and Automation Letters, vol. 8, no. 6, pp. 3860-3867, 2023. [\[link\]](https://ieeexplore.ieee.org/document/10117594) \| [\[arXiv\]](https://arxiv.org/abs/2211.15902)
@@ -19,8 +20,10 @@ author_profile: true
 --->
 
 **Conference papers**
+1. Y. Gu, **S. Cheng**, N. Hovakimyan, "Proto-MPC: An Encoder-Prototype-Decoder Approach for Quadrotor Control in Challenging Winds," under review, 2023.
 1. A. Bansal, Y. Zhao, J. Zhu, **S. Cheng**, Y. Gu, H. Yoon, H. Kim, N. Hovakimyan, L. Sha, "Synergistic Perception and Control Simplex for Verifiable Safe Vertical Landing,” to appear at 2024 AIAA SciTech Forum, 2023. [\[arXiv\]](https://arxiv.org/abs/2312.02937)
 1. J. L. Bullock, **S. Cheng**, A. Patterson, M. Acheson, N. Hovakimyan, I. Gregory, "Reference Command Optimization for the Transition Flight Mode of a Lift Plus Cruise Vehicle," to appear at 2024 AIAA SciTech Forum, 2023.
+1. L. Song, **S. Cheng**, N. Hovakimyan, S. Mitra, "Automatic Formal Verification of L1 Adaptive Control Systems," to appear at 2024 AIAA SciTech Forum, 2023.
 1. L. Song, Y. Li, **S. Cheng**, P. Zhao, S. Mitra, N. Hovakimyan, "Verification of L1 Adaptive Control using Verse Library: A Case Study of Quadrotors," In Proceedings of 13th IEEE International Conference on Cyber Physical Systems (ICCPS), pp. 245–246, San Antonio, TX, 2023. [\[link\]](https://dl.acm.org/doi/10.1145/3576841.3589618) \| [\[arXiv\]](https://arxiv.org/abs/2303.13819)
 1. **S. Cheng**, L. Song, M. Kim, S. Wang, N. Hovakimyan, "DiffTune+: Hyperparameter-Free Auto-Tuning using Auto-Differentiation," In Proceedings of 5th Learning for Dynamics and Control Conference (pp. 170-183). PMLR. Selected for oral presentation (**9.5% acceptance rate**). [\[paper\]](https://proceedings.mlr.press/v211/cheng23b/cheng23b.pdf) \| [\[arXiv\]](https://arxiv.org/abs/2212.03194) \| [\[video\]](https://www.youtube.com/live/9dk6tRNxUU8?feature=share&t=22479) \| [\[code\]](https://github.com/Sheng-Cheng/DiffTuneOpenSource)
 1. H. Lee, **S. Cheng**, Z. Wu, N. Hovakimyan, "Geometric Tracking Control of Omnidirectional Multirotors in the Presence of Rotor Dynamics," submitted. [\[arXiv\]](https://arxiv.org/abs/2209.10024) \| [\[video\]](https://youtu.be/Ip6MeS7rLhI)

@@ -20,7 +20,7 @@ author_profile: true
 --->
 
 **Conference papers**
-1. Y. Gu, **S. Cheng**, N. Hovakimyan, "Proto-MPC: An Encoder-Prototype-Decoder Approach for Quadrotor Control in Challenging Winds," under review, 2023.
+1. Y. Gu, **S. Cheng**, N. Hovakimyan, "Proto-MPC: An Encoder-Prototype-Decoder Approach for Quadrotor Control in Challenging Winds," under review, 2023. [\[arXiv\]](https://arxiv.org/abs/2401.15508)
 1. A. Bansal, Y. Zhao, J. Zhu, **S. Cheng**, Y. Gu, H. Yoon, H. Kim, N. Hovakimyan, L. Sha, "Synergistic Perception and Control Simplex for Verifiable Safe Vertical Landing,” to appear at 2024 AIAA SciTech Forum, 2023. [\[arXiv\]](https://arxiv.org/abs/2312.02937)
 1. J. L. Bullock, **S. Cheng**, A. Patterson, M. Acheson, N. Hovakimyan, I. Gregory, "Reference Command Optimization for the Transition Flight Mode of a Lift Plus Cruise Vehicle," to appear at 2024 AIAA SciTech Forum, 2023.
 1. L. Song, **S. Cheng**, N. Hovakimyan, S. Mitra, "Automatic Formal Verification of L1 Adaptive Control Systems," to appear at 2024 AIAA SciTech Forum, 2023.

@@ -48,7 +48,7 @@ Combined Navigation System"--->
 Service
 ------
 * Journal Reviewer: IEEE Transactions on Control Systems Technology, Automatica, Journal of Guidance, Control, and Dynamics, IEEE Control Systems Letters, IEEE Transactions on Aerospace and Electronic Systems, IEEE Transactions on Industrial Informatics
-* Conference Reviewer: CoRL, ICRA, IROS, IFAC WC, CDC, ACC, and DARS-SWARM
+* Conference Reviewer: CoRL, ICRA, IROS, IFAC WC, CDC, ACC, CASE, and DARS-SWARM
 * Member of the IEEE CSS Technical Committee on Intelligent Control
 
 Visitors

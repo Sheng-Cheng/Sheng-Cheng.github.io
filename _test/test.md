@@ -82,7 +82,7 @@ Extensions
   organization={PMLR}
 }
 @article{tao2024difftunempc,
-  title={{DiffTune-MPC}: Closed-loop learning for model predictive control},
+  title={DiffTune-MPC: Closed-loop learning for model predictive control},
   author={Tao, Ran and Cheng, Sheng and Wang, Xiaofeng and Wang, Shenlong and Hovakimyan, Naira},
   journal={IEEE Robotics and Automation Letters},
   year={2024},

@@ -12,9 +12,11 @@ location: "City, Country"
 <div style="text-align: center;">
   Authors: Sheng Cheng, Minkyung Kim\*, Lin Song\*, Chengyu Yang, Yiquan Jin, Shenlong Wang, and Naira Hovakimyan
 </div>
+
 <div style="text-align: center;">
   (\* These authors contributed equally to this work.)
 </div>
+
 <div style="text-align: center;">
   University of Illinois Urbana-Champaign
 </div>
@@ -29,7 +31,7 @@ The performance of robots in high-level tasks depends on the quality of their lo
 
 ## Overview
 Some descriptions of the framework. Put the figure to side rather than take a huge space in the middle
-![Description of the image](/assets/figures/DiffTune_comp_graph.png)
+![Description of the image](/assets/figures/newDiffTuneGraph.png)
 
 ## Results
 Gif showing param evolution (from slides) and tracking error plots (in paper)
@@ -44,17 +46,17 @@ Gif showing param evolution (from slides) and tracking error plots (in paper)
 Need to have the caption here
 
 <div style="display: flex;">
-  <img src="/assets/figures/exp_trajectory_1mps-1.png" alt="Image 1" style="width: 33%; margin-right: 5px;">
-  <img src="/assets/figures/exp_trajectory_2mps-1.png" alt="Image 2" style="width: 33%; margin-right: 5px;">
-  <img src="/assets/figures/exp_trajectory_3mps-1.png" alt="Image 3" style="width: 33%;">
+  <img src="/assets/figures/exp_trajectory_1mps-1.png" alt="Image 4" style="width: 33%; margin-right: 5px;">
+  <img src="/assets/figures/exp_trajectory_2mps-1.png" alt="Image 5" style="width: 33%; margin-right: 5px;">
+  <img src="/assets/figures/exp_trajectory_3mps-1.png" alt="Image 6" style="width: 33%;">
 </div>
 
 Need to have the caption here
 
 <div style="display: flex;">
-  <img src="/assets/figures/param_1mps_new.gif" alt="Image 1" style="width: 33%; margin-right: 5px;">
-  <img src="/assets/figures/param_2mps_new.gif" alt="Image 2" style="width: 33%; margin-right: 5px;">
-  <img src="/assets/figures/param_3mps_new.gif" alt="Image 3" style="width: 33%;">
+  <img src="/assets/figures/param_1mps_new.gif" alt="gif 1" style="width: 33%; margin-right: 5px;">
+  <img src="/assets/figures/param_2mps_new.gif" alt="gif 2" style="width: 33%; margin-right: 5px;">
+  <img src="/assets/figures/param_3mps_new.gif" alt="gif 3" style="width: 33%;">
 </div>
 Need to have the caption here
 

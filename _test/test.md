@@ -1,8 +1,8 @@
 ---
-title: "DiffTune website"
-collection: research
+title: "DiffTune website test"
+collection: test
 type: "TBD"
-permalink: /research/DiffTune
+permalink: /test/DiffTune
 venue: "TBD"
 date: 2024-08-25
 location: "City, Country"

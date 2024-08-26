@@ -22,17 +22,49 @@ location: "City, Country"
 
 insert a few buttons (paper, arxiv, code, video)
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-<span class="link-block">
-  <a href="https://github.com/google/nerfies"
-     class="external-link button is-normal is-rounded is-dark">
-    <span class="icon">
-        <i class="fab fa-github"></i>
-    </span>
-    <span>Code</span>
-  </a>
-</span>
+<!-- Add custom CSS for centering the buttons -->
+<style>
+  .centered-buttons {
+    text-align: center; /* Center-align the content */
+    margin-top: 20px;   /* Add top margin for spacing */
+  }
 
+  .link-block {
+    margin: 0 10px; /* Add spacing between buttons */
+    display: inline-block; /* Ensure buttons are displayed inline */
+  }
+</style>
+
+<!-- HTML for the centered buttons -->
+<div class="centered-buttons">
+  <span class="link-block">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10599619"
+       class="external-link button is-normal is-rounded is-dark">
+      <span class="icon">
+          <i class="fab fa-github"></i>
+      </span>
+      <span>Paper</span>
+    </a>
+  </span>
+  <span class="link-block">
+    <a href="https://github.com/Sheng-Cheng/DiffTuneOpenSource"
+       class="external-link button is-normal is-rounded is-dark">
+      <span class="icon">
+          <i class="fab fa-github"></i>
+      </span>
+      <span>Code</span>
+    </a>
+  </span>
+  <span class="link-block">
+    <a href="https://youtu.be/g42UxcIHUdg?si=RT13Z4kmcj1CrImu"
+       class="external-link button is-normal is-rounded is-dark">
+      <span class="icon">
+          <i class="fab fa-github"></i>
+      </span>
+      <span>Video</span>
+    </a>
+  </span>
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g42UxcIHUdg?si=jd7aPFCTjPxSSGyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

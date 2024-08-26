@@ -22,6 +22,17 @@ location: "City, Country"
 
 insert a few buttons (paper, arxiv, code, video)
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<span class="link-block">
+  <a href="https://github.com/google/nerfies"
+     class="external-link button is-normal is-rounded is-dark">
+    <span class="icon">
+        <i class="fab fa-github"></i>
+    </span>
+    <span>Code</span>
+  </a>
+</span>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g42UxcIHUdg?si=jd7aPFCTjPxSSGyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

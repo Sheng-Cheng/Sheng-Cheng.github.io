@@ -20,8 +20,6 @@ location: "City, Country"
   University of Illinois Urbana-Champaign
 </div>
 
-insert a few buttons (paper, arxiv, code, video)
-
 <!-- Add custom CSS for centering the buttons -->
 <style>
   .centered-buttons {

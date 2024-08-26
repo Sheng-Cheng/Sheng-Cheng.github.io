@@ -41,7 +41,7 @@ insert a few buttons (paper, arxiv, code, video)
     <a href="https://ieeexplore.ieee.org/abstract/document/10599619"
        class="external-link button is-normal is-rounded is-dark">
       <span class="icon">
-          <i class="fab fa-github"></i>
+          <i class="fas fa-file-pdf"></i>
       </span>
       <span>Paper</span>
     </a>
@@ -59,13 +59,14 @@ insert a few buttons (paper, arxiv, code, video)
     <a href="https://youtu.be/g42UxcIHUdg?si=RT13Z4kmcj1CrImu"
        class="external-link button is-normal is-rounded is-dark">
       <span class="icon">
-          <i class="fab fa-github"></i>
+          <i class="fab fa-youtube"></i>
       </span>
       <span>Video</span>
     </a>
   </span>
 </div>
 
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g42UxcIHUdg?si=jd7aPFCTjPxSSGyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -107,6 +108,7 @@ We validated DiffTune over a nonlinear geometric controller for a quadrotor traj
   Evolution of the parameters during the tuning on three circular trajectories with different speeds.
 </div>
 
+<br>
 For more results and analysis, check the paper [here](https://ieeexplore.ieee.org/document/10599619).
 
 ## Extensions

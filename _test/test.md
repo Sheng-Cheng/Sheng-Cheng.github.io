@@ -8,6 +8,12 @@ date: 2024-08-25
 location: "City, Country"
 ---
 
+<head>
+  <!-- Bulma CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <!-- Font Awesome CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
 
 <div style="text-align: center;">
   Authors: Sheng Cheng, Minkyung Kim*, Lin Song*, Chengyu Yang, Yiquan Jin, Shenlong Wang, and Naira Hovakimyan
@@ -23,10 +29,60 @@ location: "City, Country"
 
 insert a few buttons (paper, arxiv, code, video)
 
-<a href="https://github.com/Sheng-Cheng/DiffTuneOpenSource" style="display: inline-block; text-decoration: none; border: 1px solid #ddd; padding: 10px 20px; border-radius: 5px; background-color: #f7f7f7; color: black; font-weight: bold;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 10px;">
-  Code
-</a>
+<div class="column has-text-centered">
+  <div class="publication-links">
+    <!-- PDF Link -->
+    <span class="link-block">
+      <a href="https://arxiv.org/pdf/2011.12948"
+         class="external-link button is-normal is-rounded is-dark">
+        <span class="icon">
+            <i class="fas fa-file-pdf"></i>
+        </span>
+        <span>Paper</span>
+      </a>
+    </span>
+    <!-- arXiv Link -->
+    <span class="link-block">
+      <a href="https://arxiv.org/abs/2011.12948"
+         class="external-link button is-normal is-rounded is-dark">
+        <span class="icon">
+            <i class="ai ai-arxiv"></i>
+        </span>
+        <span>arXiv</span>
+      </a>
+    </span>
+    <!-- Video Link -->
+    <span class="link-block">
+      <a href="https://www.youtube.com/watch?v=MrKrnHhk8IA"
+         class="external-link button is-normal is-rounded is-dark">
+        <span class="icon">
+            <i class="fab fa-youtube"></i>
+        </span>
+        <span>Video</span>
+      </a>
+    </span>
+    <!-- Code Link -->
+    <span class="link-block">
+      <a href="https://github.com/google/nerfies"
+         class="external-link button is-normal is-rounded is-dark">
+        <span class="icon">
+            <i class="fab fa-github"></i>
+        </span>
+        <span>Code</span>
+      </a>
+    </span>
+    <!-- Dataset Link -->
+    <span class="link-block">
+      <a href="https://github.com/google/nerfies/releases/tag/0.1"
+         class="external-link button is-normal is-rounded is-dark">
+        <span class="icon">
+            <i class="far fa-images"></i>
+        </span>
+        <span>Data</span>
+      </a>
+    </span>
+  </div>
+</div>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g42UxcIHUdg?si=jd7aPFCTjPxSSGyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

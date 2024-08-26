@@ -29,59 +29,65 @@ location: "City, Country"
 
 insert a few buttons (paper, arxiv, code, video)
 
-<div class="column has-text-centered">
-  <div class="publication-links">
-    <!-- PDF Link -->
-    <span class="link-block">
-      <a href="https://arxiv.org/pdf/2011.12948"
-         class="external-link button is-normal is-rounded is-dark">
-        <span class="icon">
-            <i class="fas fa-file-pdf"></i>
-        </span>
-        <span>Paper</span>
-      </a>
-    </span>
-    <!-- arXiv Link -->
-    <span class="link-block">
-      <a href="https://arxiv.org/abs/2011.12948"
-         class="external-link button is-normal is-rounded is-dark">
-        <span class="icon">
-            <i class="ai ai-arxiv"></i>
-        </span>
-        <span>arXiv</span>
-      </a>
-    </span>
-    <!-- Video Link -->
-    <span class="link-block">
-      <a href="https://www.youtube.com/watch?v=MrKrnHhk8IA"
-         class="external-link button is-normal is-rounded is-dark">
-        <span class="icon">
-            <i class="fab fa-youtube"></i>
-        </span>
-        <span>Video</span>
-      </a>
-    </span>
-    <!-- Code Link -->
-    <span class="link-block">
-      <a href="https://github.com/google/nerfies"
-         class="external-link button is-normal is-rounded is-dark">
-        <span class="icon">
-            <i class="fab fa-github"></i>
-        </span>
-        <span>Code</span>
-      </a>
-    </span>
-    <!-- Dataset Link -->
-    <span class="link-block">
-      <a href="https://github.com/google/nerfies/releases/tag/0.1"
-         class="external-link button is-normal is-rounded is-dark">
-        <span class="icon">
-            <i class="far fa-images"></i>
-        </span>
-        <span>Data</span>
-      </a>
-    </span>
-  </div>
+<!-- Button Styles Scoped Locally -->
+<style>
+  .custom-button-container .button {
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    color: black;
+    font-weight: bold;
+    margin: 5px;
+  }
+  .custom-button-container .button .icon {
+    margin-right: 10px;
+  }
+</style>
+
+<div class="custom-button-container has-text-centered">
+  <span class="link-block">
+    <a href="https://arxiv.org/pdf/2011.12948" class="button is-normal is-rounded is-dark">
+      <span class="icon">
+        <i class="fas fa-file-pdf"></i>
+      </span>
+      <span>Paper</span>
+    </a>
+  </span>
+  <span class="link-block">
+    <a href="https://arxiv.org/abs/2011.12948" class="button is-normal is-rounded is-dark">
+      <span class="icon">
+        <i class="ai ai-arxiv"></i>
+      </span>
+      <span>arXiv</span>
+    </a>
+  </span>
+  <span class="link-block">
+    <a href="https://www.youtube.com/watch?v=MrKrnHhk8IA" class="button is-normal is-rounded is-dark">
+      <span class="icon">
+        <i class="fab fa-youtube"></i>
+      </span>
+      <span>Video</span>
+    </a>
+  </span>
+  <span class="link-block">
+    <a href="https://github.com/google/nerfies" class="button is-normal is-rounded is-dark">
+      <span class="icon">
+        <i class="fab fa-github"></i>
+      </span>
+      <span>Code</span>
+    </a>
+  </span>
+  <span class="link-block">
+    <a href="https://github.com/google/nerfies/releases/tag/0.1" class="button is-normal is-rounded is-dark">
+      <span class="icon">
+        <i class="far fa-images"></i>
+      </span>
+      <span>Data</span>
+    </a>
+  </span>
 </div>
 
 

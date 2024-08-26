@@ -23,6 +23,11 @@ location: "City, Country"
 
 insert a few buttons (paper, arxiv, code, video)
 
+<a href="https://github.com/Sheng-Cheng/DiffTuneOpenSource" style="display: inline-block; text-decoration: none; border: 1px solid #ddd; padding: 10px 20px; border-radius: 5px; background-color: #f7f7f7; color: black; font-weight: bold;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 10px;">
+  Code
+</a>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g42UxcIHUdg?si=jd7aPFCTjPxSSGyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -43,21 +48,27 @@ We validated DiffTune over a nonlinear geometric controller for a quadrotor traj
   <img src="/assets/figures/exp_RMSE_2mps-1.png" alt="Image 2" style="width: 33%; margin-right: 5px;">
   <img src="/assets/figures/exp_RMSE_3mps-1.png" alt="Image 3" style="width: 33%;">
 </div>
-Tracking RMSE of the tuning on three circular trajectories. The dashed line shows the RMSE achieved by hand-tuning.
+<div style="text-align: center;">
+  Tracking RMSE of the tuning on three circular trajectories. The dashed line shows the RMSE achieved by hand-tuning.
+</div>
 
 <div style="display: flex;">
   <img src="/assets/figures/exp_trajectory_1mps-1.png" alt="Image 4" style="width: 33%; margin-right: 5px;">
   <img src="/assets/figures/exp_trajectory_2mps-1.png" alt="Image 5" style="width: 33%; margin-right: 5px;">
   <img src="/assets/figures/exp_trajectory_3mps-1.png" alt="Image 6" style="width: 33%;">
 </div>
-Horizontal trajectories of the quadrotor during tuning on three circular trajectories with different speeds.
+<div style="text-align: center;">
+  Horizontal trajectories of the quadrotor during tuning on three circular trajectories with different speeds.
+</div>
 
 <div style="display: flex;">
   <img src="/assets/figures/param_1mps_new.gif" alt="gif 1" style="width: 33%; margin-right: 5px;">
   <img src="/assets/figures/param_2mps_new.gif" alt="gif 2" style="width: 33%; margin-right: 5px;">
   <img src="/assets/figures/param_3mps_new.gif" alt="gif 3" style="width: 33%;">
 </div>
-Evolution of the parameters during the tuning on three circular trajectories with different speeds.
+<div style="text-align: center;">
+  Evolution of the parameters during the tuning on three circular trajectories with different speeds.
+</div>
 
 For more results and analysis, check the paper [here](https://ieeexplore.ieee.org/document/10599619).
 
@@ -70,7 +81,6 @@ We have also extended target controllers of DiffTune from explicitly differentia
 ## BibTex
 If you think these works are helpful to your research/application, please cite:
 <pre>
-```
 @article{cheng2022difftune,
   title={DiffTune: Auto-Tuning through Auto-Differentiation},
   author={Cheng, Sheng and Kim, Minkyung and Song, Lin and Yang, Chengyu and Jin, Yiquan and Wang, Shenlong and Hovakimyan, Naira},
@@ -93,7 +103,6 @@ If you think these works are helpful to your research/application, please cite:
   year={2024},
   publisher={IEEE}
 }
-```
 </pre>
 
 ## Acknowledgement

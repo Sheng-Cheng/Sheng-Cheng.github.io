@@ -8,13 +8,6 @@ date: 2024-08-25
 location: "City, Country"
 ---
 
-<head>
-  <!-- Bulma CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-  <!-- Font Awesome CSS -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-</head>
-
 <div style="text-align: center;">
   Authors: Sheng Cheng, Minkyung Kim*, Lin Song*, Chengyu Yang, Yiquan Jin, Shenlong Wang, and Naira Hovakimyan
 </div>
@@ -28,67 +21,6 @@ location: "City, Country"
 </div>
 
 insert a few buttons (paper, arxiv, code, video)
-
-<!-- Button Styles Scoped Locally -->
-<style>
-  .custom-button-container .button {
-    display: inline-block;
-    text-decoration: none;
-    border: 1px solid #ddd;
-    padding: 10px 20px;
-    border-radius: 5px;
-    background-color: #f7f7f7;
-    color: black;
-    font-weight: bold;
-    margin: 5px;
-  }
-  .custom-button-container .button .icon {
-    margin-right: 10px;
-  }
-</style>
-
-<div class="custom-button-container has-text-centered">
-  <span class="link-block">
-    <a href="https://arxiv.org/pdf/2011.12948" class="button is-normal is-rounded is-dark">
-      <span class="icon">
-        <i class="fas fa-file-pdf"></i>
-      </span>
-      <span>Paper</span>
-    </a>
-  </span>
-  <span class="link-block">
-    <a href="https://arxiv.org/abs/2011.12948" class="button is-normal is-rounded is-dark">
-      <span class="icon">
-        <i class="ai ai-arxiv"></i>
-      </span>
-      <span>arXiv</span>
-    </a>
-  </span>
-  <span class="link-block">
-    <a href="https://www.youtube.com/watch?v=MrKrnHhk8IA" class="button is-normal is-rounded is-dark">
-      <span class="icon">
-        <i class="fab fa-youtube"></i>
-      </span>
-      <span>Video</span>
-    </a>
-  </span>
-  <span class="link-block">
-    <a href="https://github.com/google/nerfies" class="button is-normal is-rounded is-dark">
-      <span class="icon">
-        <i class="fab fa-github"></i>
-      </span>
-      <span>Code</span>
-    </a>
-  </span>
-  <span class="link-block">
-    <a href="https://github.com/google/nerfies/releases/tag/0.1" class="button is-normal is-rounded is-dark">
-      <span class="icon">
-        <i class="far fa-images"></i>
-      </span>
-      <span>Data</span>
-    </a>
-  </span>
-</div>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g42UxcIHUdg?si=jd7aPFCTjPxSSGyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

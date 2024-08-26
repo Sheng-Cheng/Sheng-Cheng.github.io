@@ -23,7 +23,7 @@ Recent news
 * 2023/03: I gave an invited talk at the [Robotics Seminar](https://robotics.illinois.edu/robotics-seminar-series/) in UIUC.
 * 2023/02: I gave an invited talk at [Dr. Bo Li's group](https://aisecure.github.io/) in UIUC.
 * 2023/02: I gave an invited talk at the [Robotics and Controls Seminar](https://rcs.charlotte.edu/seminar) in UNC Charlotte.
-<!--- * 2023/01: Our [GN&C Workshop](https://virtualscitech.aiaa.org/Category/f804d236-1b50-4d7a-b21f-780d9f805aeb) focusing on machine-learning for safety-critical systems in Advanced Air Mobility has been held succesfully at 2023 AIAA SciTech! Many thanks to our colleagues at NASA and GaTech! --->
+<!--- * 2023/01: Our [GN&C Workshop](https://virtualscitech.aiaa.org/Category/f804d236-1b50-4d7a-b21f-780d9f805aeb) focusing on machine-learning for safety-critical systems in Advanced Air Mobility has been held successfully at 2023 AIAA SciTech! Many thanks to our colleagues at NASA and GaTech! --->
 <!--- * 2023/01: Our L1Quad video has been featured by IEEE Spectrum’s [Video Friday](https://spectrum.ieee.org/video-friday-robots-at-night#:~:text=Quadrotors%20are%20deployed,case%20by%20case.). Thanks, IEEE Spectrum! --->
 <!--- * 2022/12: I gave a spotlight talk on DiffTune at the RoboAdapt Workshop at CoRL 2022. The schedule can be found [here](https://sites.google.com/view/roboadapt/schedule?authuser=0). --->
 <!--- * 2022/11: A compilation of demos for robust quadrotor flight against uncertainties (L1Quad) is available on [video](https://youtu.be/18-2OqTRJ50). The paper will be submitted soon. --->

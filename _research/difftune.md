@@ -4,7 +4,7 @@ collection: research
 type: "TBD"
 permalink: /research/DiffTune
 venue: "IEEE Transactions on Robotics"
-date: 2023-08
+date: 2023-08-01
 location: "City, Country"
 ---
 

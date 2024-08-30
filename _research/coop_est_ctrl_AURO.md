@@ -4,7 +4,7 @@ collection: research
 type: "TBD"
 permalink: /research/auro_2023
 venue: " Autonomous Robots"
-date: 2023-05
+date: 2022-01-09
 location: "City, Country"
 ---
 

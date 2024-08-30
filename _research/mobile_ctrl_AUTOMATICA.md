@@ -57,6 +57,14 @@ If you think these works are helpful to your research/application, please cite:
   year={2021},
   publisher={Elsevier}
 }
+@inproceedings{cheng2021optimal_conf,
+  title={Optimal guidance of a team of mobile actuators for controlling a 1D diffusion process with unknown initial conditions},
+  author={Cheng, Sheng and Paley, Derek A},
+  booktitle={2021 American Control Conference (ACC)},
+  pages={1497--1502},
+  year={2021},
+  organization={IEEE}
+}
 @inproceedings{cheng2020optimal,
   title={Optimal control of a 1D diffusion process with a team of mobile actuators under jointly optimal guidance},
   author={Cheng, Sheng and Paley, Derek A},

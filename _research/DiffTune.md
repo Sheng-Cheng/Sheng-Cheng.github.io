@@ -1,7 +1,7 @@
 ---
 title: "DiffTune: Auto-Tuning through Auto-Differentiation"
 collection: research
-type: "Research"
+type: "TBD"
 permalink: /research/DiffTune
 venue: "IEEE Transactions on Robotics"
 date: 2024-08-25

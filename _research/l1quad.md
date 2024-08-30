@@ -4,7 +4,7 @@ collection: research
 type: "TBD"
 permalink: /research/l1quad
 venue: "under review"
-date: 2024-08-25
+date: 2023-02
 location: "City, Country"
 ---
 

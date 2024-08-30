@@ -32,7 +32,7 @@ location: "City, Country"
 <!-- HTML for the centered buttons -->
 <div class="centered-buttons">
   <span class="link-block">
-    <a href="[https://www.sciencedirect.com/science/article/pii/S0005109821006415]"
+    <a href="https://www.sciencedirect.com/science/article/pii/S0005109821006415"
        class="external-link button is-normal is-rounded is-dark">
       <span class="icon">
           <i class="fas fa-file-pdf"></i>

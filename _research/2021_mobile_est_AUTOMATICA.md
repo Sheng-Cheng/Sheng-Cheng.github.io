@@ -2,6 +2,7 @@
 title: "Optimal guidance and estimation of a 2D diffusion–advection process by a team of mobile sensors"
 collection: research
 type: "TBD"
+excerpt: "jointly optimal guidance and estimation policies for monitoring a diffusion-advection process with mobile sensors"
 permalink: /research/mbl_est_automatica_2022
 venue: "Automatica"
 date: 2021-11-03

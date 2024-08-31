@@ -2,6 +2,7 @@
 title: "Cooperative estimation and control of a diffusion-based spatiotemporal process using mobile sensors and actuators"
 collection: research
 type: "TBD"
+excerpt: ""
 permalink: /research/auro_2023
 venue: " Autonomous Robots"
 date: 2022-01-09

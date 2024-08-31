@@ -9,6 +9,14 @@ date: 2023-08-01
 location: "City, Country"
 ---
 
+<!--
+Instructions for the header above:
+The "title", "excerpt", and "date" will be shown on the summary page research\. 
+"type" and "location" can be ignored.
+-->
+
+<!-- Display the authors -->
+
 <div style="text-align: center;">
   Authors: Sheng Cheng, Minkyung Kim*, Lin Song*, Chengyu Yang, Yiquan Jin, Shenlong Wang, and Naira Hovakimyan
 </div>
@@ -21,6 +29,7 @@ location: "City, Country"
   University of Illinois Urbana-Champaign
 </div>
 
+<!-- The commands below are for the buttons for paper, code, video -->
 <!-- Add custom CSS for centering the buttons -->
 <style>
   .centered-buttons {

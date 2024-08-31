@@ -2,6 +2,7 @@
 title: "Optimal control of a 2D diffusion–advection process with a team of mobile actuators under jointly optimal guidance"
 collection: research
 type: "TBD"
+excerpt: "jointly optimal guidance and control policies for controlling a diffusion-advection process with mobile actuators"
 permalink: /research/mbl_ctrl_automatica_2021
 venue: "Automatica"
 date: 2021-07-06

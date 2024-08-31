@@ -2,7 +2,7 @@
 title: "DiffTune: Auto-Tuning through Auto-Differentiation"
 collection: research
 type: "TBD"
-excerpt: "This is a brief summary of the post content."
+excerpt: "Gradient-based auto-tuning method for model-based controllers"
 permalink: /research/DiffTune
 venue: "IEEE Transactions on Robotics"
 date: 2023-08-01

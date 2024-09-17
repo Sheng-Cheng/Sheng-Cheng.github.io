@@ -7,6 +7,7 @@ author_profile: true
 
 **Journal articles**
 1. H. Lee, **S. Cheng**, Z. Wu, J. Lim, R. Siegwart, N. Hovakimyan, "Geometric Tracking Control of Omnidirectional Multirotors for Aggressive Maneuvers in the Presence of Rotor Dynamics," under review. [\[arXiv\]](https://arxiv.org/abs/2209.10024) \| [\[video\]](https://youtu.be/el9hllYO9r8)
+1. S. M. Rajkumar, **S. Cheng**, N. Hovakimyan, D. Goswami, "Linear Model Predictive Control for Quadrotors with an Analytically Derived Koopman Model," under review, 2024.
 1. **S. Cheng**, M. Kim, L. Song, C. Yang, Y. Jin, S. Wang, N. Hovakimyan, "DiffTune: Auto-Tuning through Auto-Differentiation," IEEE Transactions on Robotics, 2024. [\[arXiv\]](https://arxiv.org/abs/2209.10021) \| [\[video\]](https://youtu.be/g42UxcIHUdg) \|  [\[code\]](https://github.com/Sheng-Cheng/DiffTuneOpenSource)
 1. R. Tao, **S. Cheng**, X. Wang, S. Wang, N Hovakimyan, "DiffTune-MPC: Closed-Loop Learning for Model Predictive Control," IEEE Robotics and Automation Letters, 2024. [\[arXiv\]](https://arxiv.org/abs/2312.11384)
 1. Z. Wu, **S. Cheng**, P. Zhao, A. Gahlawat, K. A. Ackerman, A. Lakshmanan, C. Yang, J. Yu, N. Hovakimyan, "L1Quad: L1 Adaptive Augmentation of Geometric Control for Agile Quadrotors with Performance Guarantees," under revision for IEEE Transactions on Control Systems Technology. [\[arxiv\]](https://arxiv.org/abs/2302.07208) \| [\[video\]](https://youtu.be/18-2OqTRJ50) \| [\[code\]](https://github.com/Sheng-Cheng/ardupilot/tree/ACRL-master-L1AC)
@@ -21,6 +22,8 @@ author_profile: true
 --->
 
 **Conference papers**
+1. Q. Chen*, J. Li*, **S. Cheng**, N. Hovakimyan, Q. Nguyen, "Autotuning Bipedal Locomotion MPC with GRFM-Net for Efficient Sim-to-Real Transfer," under review, 2024.
+1. H. Pham*, **S. Cheng***, Z. Han, C. Yang, Q. Luu, N. Hovakimyan, V. Ho, "Collision-resilient Quadrotor with Tombo Propellers and L1Quad," under review, 2024.
 1. **S. Cheng**, Y. Gu, R. Tao, S. Wang, X. Wang, N. Hovakimyan, "Task-Parameter Nexus for Learning Task-Specific  Parameters in Model-Based Control," accepted for presentation at ICRA@40, 2024.
 1. C. Tao, **S. Cheng**, Y. Zhao, F. Wang, N. Hovakimyan, "An Optimization-Based Planner with B-spline Parameterized Continuous-Time Reference Signals," accepted for presentation at the IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024.
 1. Y. Gu, **S. Cheng**, N. Hovakimyan, "Proto-MPC: An Encoder-Prototype-Decoder Approach for Quadrotor Control in Challenging Winds," in Proceedings of the 6th Annual Learning for Dynamics and Control Conference, 2024. [\[arXiv\]](https://arxiv.org/abs/2401.15508)

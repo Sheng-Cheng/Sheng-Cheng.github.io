@@ -15,6 +15,8 @@ Recent news
 * 2024/12: L1Quad has been accepted by IEEE TCST! The preprint can be accessed [here](https://arxiv.org/abs/2302.07208). The video for experiments can be found [here](https://youtu.be/18-2OqTRJ50?si=jV_EzJ8YnPSNoCVU). Our open-source code can be accessed [here](https://github.com/sigma-pi/L1Quad).
 * 2024/12: Our new paper on the control of omnidirectional multirotor vehicles for aggressive maneuvers has been accepted for publication by IEEE RA-L! The preprint is available on [arxiv](https://arxiv.org/abs/2209.10024). The video can be found [here](https://www.youtube.com/watch?v=el9hllYO9r8).
 * 2024/11: Our new paper on control parameter inference at run-time for unseen tasks has been submitted to 2025 L4DC.
+* 2024/09: One paper submitted to 2025 ACC.
+* 2024/09: Two papers submitted to 2025 ICRA.
 * 2024/07: DiffTune has been accepted by IEEE T-RO! You can access the [paper](https://ieeexplore.ieee.org/abstract/document/10599619), [demo](https://www.youtube.com/watch?v=g42UxcIHUdg), and [code](https://github.com/Sheng-Cheng/DiffTuneOpenSource) from the links attached.
 * 2024/06: DiffTune-MPC has been accepted by IEEE RA-L. You can access the [paper](https://ieeexplore.ieee.org/abstract/document/10584257), [arxiv](https://arxiv.org/abs/2312.11384), and [code](https://github.com/RonaldTao/DiffTune-MPC) from the links attached.
 * 2024/06: Our recent work on a new optimization-based planner, BSPOP, has been accepted for presentation at 2024 IROS. The arxiv version of the paper can be accessed [here](https://arxiv.org/abs/2404.00133). Check out our demo on a Polaris Gem car [here](https://www.youtube.com/watch?v=mQK9Md8BxRA).

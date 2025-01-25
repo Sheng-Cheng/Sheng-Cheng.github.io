@@ -11,11 +11,12 @@ Hello! Thank you for visiting my website. I'm a postdoc at UIUC working with Pro
 
 Recent news
 ------
+* 2025/01: I am named a 2025 [Future Leader in Robotics and AI](https://robotics.umd.edu/futureleaders) by the University of Maryland. 
+* 2025/01: I served as the session chair (GNC-19) at AIAA SciTech 2025.
 * 2024/12: I gave an invited talk at the REALM Lab at MIT.
 * 2024/12: L1Quad has been accepted by IEEE TCST! The preprint can be accessed [here](https://arxiv.org/abs/2302.07208). The video for experiments can be found [here](https://youtu.be/18-2OqTRJ50?si=jV_EzJ8YnPSNoCVU). Our open-source code can be accessed [here](https://github.com/sigma-pi/L1Quad).
 * 2024/12: Our new paper on the control of omnidirectional multirotor vehicles for aggressive maneuvers has been accepted for publication by IEEE RA-L! The preprint is available on [arxiv](https://arxiv.org/abs/2209.10024). The video can be found [here](https://www.youtube.com/watch?v=el9hllYO9r8).
 * 2024/11: Our new paper on control parameter inference at run-time for unseen tasks has been submitted to 2025 L4DC.
-* 2024/09: One paper submitted to 2025 ACC.
 * 2024/09: Two papers submitted to 2025 ICRA.
 * 2024/07: DiffTune has been accepted by IEEE T-RO! You can access the [paper](https://ieeexplore.ieee.org/abstract/document/10599619), [demo](https://www.youtube.com/watch?v=g42UxcIHUdg), and [code](https://github.com/Sheng-Cheng/DiffTuneOpenSource) from the links attached.
 * 2024/06: DiffTune-MPC has been accepted by IEEE RA-L. You can access the [paper](https://ieeexplore.ieee.org/abstract/document/10584257), [arxiv](https://arxiv.org/abs/2312.11384), and [code](https://github.com/RonaldTao/DiffTune-MPC) from the links attached.
@@ -24,7 +25,7 @@ Recent news
 * 2024/01: I served as the session chair for Control Techniques for AAM Autonomy (GNC-28) at AIAA SciTech 2024.
 <!--- * 2023/09: Our research and student team have been featured on MechSE news. Check for more details [here](https://mechse.illinois.edu/news/stories/up-in-the-air). --->
 <!--- * 2023/08: I gave an invited talk at the Long Feng Science Forum at CUHK-Shenzhen. --->
-* 2023/07: I gave an invited talk at the [Robotics and Perception Group](https://rpg.ifi.uzh.ch/) at the University of Zurich.
+<!--- * 2023/07: I gave an invited talk at the [Robotics and Perception Group](https://rpg.ifi.uzh.ch/) at the University of Zurich. --->
 <!--- * 2023/04: Our new paper on hyperparameter-free auto-tuning using DiffTune has been accepted by L4DC for oral presentation (**9.5% acceptance rate**)! The preprint is available [here]([https://youtu.be/i8Lms1cOoyI](https://arxiv.org/abs/2212.03194)). The presentation is available [here](https://www.youtube.com/live/9dk6tRNxUU8?feature=share&t=22479). --->
 <!--- * 2023/04: Our new paper on cooperative estimation and control of a diffusion-based spatiotemporal process has been accepted by Autonomous Robots! The demo experiment can be found [here](https://youtu.be/i8Lms1cOoyI). Paper can be accessed [here](https://link.springer.com/article/10.1007/s10514-023-10105-9). --->
 <!--- * 2023/04: Our new paper on fast UAV trajectory planning via simultaneous spatial and temporal assignments has been accepted by IEEE RA-L! The preprint is available on [arxiv](https://arxiv.org/abs/2211.15902). --->

@@ -45,6 +45,7 @@ Recent news
 
 Honors and awards
 ------
+* Future Leader in Robotics and AI, University of Maryland (2025)
 * Excellent Reviewer, Journal of Guidance, Control, and Dynamics (2022)
 * Graduate School Summer Fellowship, University of Maryland (2021) <!--- for students delayed by COVID-19. --->
 * Student Travel Award, ACC, IFAC WC, CDC, SIAM DS <!--- ACC (2019 2020 2021) CDC (2020) SIAM DS (2021)--->
@@ -58,7 +59,7 @@ Combined Navigation System"--->
 
 Service
 ------
-* Journal Reviewer: IEEE Transactions on Control Systems Technology, Automatica, Journal of Guidance, Control, and Dynamics, IEEE Robotics and Automation Letters, IEEE Control Systems Letters, IEEE Transactions on Aerospace and Electronic Systems, IEEE Transactions on Industrial Informatics
+* Journal Reviewer: Science Robotics, IEEE Robotics and Automation Letters, IEEE Transactions on Control Systems Technology, Automatica, Journal of Guidance, Control, and Dynamics, IEEE Control Systems Letters, IEEE Transactions on Aerospace and Electronic Systems, IEEE Transactions on Industrial Informatics
 * Conference Reviewer: CoRL, ICRA, IROS, IFAC WC, CDC, ACC, CASE, and DARS-SWARM
 * Member of the IEEE CSS Technical Committee on Intelligent Control
 

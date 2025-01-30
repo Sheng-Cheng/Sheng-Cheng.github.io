@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 **Journal articles**
-1. H. Lee, **S. Cheng**, Z. Wu, J. Lim, R. Siegwart, N. Hovakimyan, "Geometric Tracking Control of Omnidirectional Multirotors for Aggressive Maneuvers in the Presence of Rotor Dynamics," under review. [\[arXiv\]](https://arxiv.org/abs/2209.10024) \| [\[video\]](https://youtu.be/el9hllYO9r8)
-1. S. M. Rajkumar, **S. Cheng**, N. Hovakimyan, D. Goswami, "Linear Model Predictive Control for Quadrotors with an Analytically Derived Koopman Model," under review, 2024. [\[arXiv\]](https://arxiv.org/abs/2409.12374)
-1. **S. Cheng**, M. Kim, L. Song, C. Yang, Y. Jin, S. Wang, N. Hovakimyan, "DiffTune: Auto-Tuning through Auto-Differentiation," IEEE Transactions on Robotics, 2024. [\[arXiv\]](https://arxiv.org/abs/2209.10021) \| [\[video\]](https://youtu.be/g42UxcIHUdg) \|  [\[code\]](https://github.com/Sheng-Cheng/DiffTuneOpenSource)
-1. R. Tao, **S. Cheng**, X. Wang, S. Wang, N Hovakimyan, "DiffTune-MPC: Closed-Loop Learning for Model Predictive Control," IEEE Robotics and Automation Letters, 2024. [\[arXiv\]](https://arxiv.org/abs/2312.11384)
-1. Z. Wu, **S. Cheng**, P. Zhao, A. Gahlawat, K. A. Ackerman, A. Lakshmanan, C. Yang, J. Yu, N. Hovakimyan, "L1Quad: L1 Adaptive Augmentation of Geometric Control for Agile Quadrotors with Performance Guarantees," under revision for IEEE Transactions on Control Systems Technology. [\[arxiv\]](https://arxiv.org/abs/2302.07208) \| [\[video\]](https://youtu.be/18-2OqTRJ50) \| [\[code\]](https://github.com/Sheng-Cheng/ardupilot/tree/ACRL-master-L1AC)
+1. Z. Wu, **S. Cheng**, P. Zhao, A. Gahlawat, K. A. Ackerman, A. Lakshmanan, C. Yang, J. Yu, N. Hovakimyan, "L1Quad: L1 Adaptive Augmentation of Geometric Control for Agile Quadrotors with Performance Guarantees," IEEE Transactions on Control Systems Technology, 2025. [\[paper\]](https://ieeexplore.ieee.org/document/10820973) \| [\[arxiv\]](https://arxiv.org/abs/2302.07208) \| [\[video\]](https://youtu.be/18-2OqTRJ50) \| [\[code\]](https://github.com/Sheng-Cheng/ardupilot/tree/ACRL-master-L1AC)
+1. H. Lee, **S. Cheng**, Z. Wu, J. Lim, R. Siegwart, N. Hovakimyan, "Geometric Tracking Control of Omnidirectional Multirotors for Aggressive Maneuvers in the Presence of Rotor Dynamics," IEEE Robotics and Automation Letters. [\[paper\]](https://ieeexplore.ieee.org/document/10804067) \| [\[arXiv\]](https://arxiv.org/abs/2209.10024) \| [\[video\]](https://youtu.be/0rpY1bxjegc?si=xYoTVzD3gUKK_iTt)
+1. S. M. Rajkumar, **S. Cheng**, N. Hovakimyan, D. Goswami, "Linear Model Predictive Control for Quadrotors with an Analytically Derived Koopman Model," under review, 2024. [\[arxiv\]](https://arxiv.org/abs/2409.12374)
+1. **S. Cheng**, M. Kim, L. Song, C. Yang, Y. Jin, S. Wang, N. Hovakimyan, "DiffTune: Auto-Tuning through Auto-Differentiation," IEEE Transactions on Robotics, 2024. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10599619) \| [\[arXiv\]](https://arxiv.org/abs/2209.10021) \| [\[video\]](https://youtu.be/g42UxcIHUdg) \|  [\[code\]](https://github.com/Sheng-Cheng/DiffTuneOpenSource)
+1. R. Tao, **S. Cheng**, X. Wang, S. Wang, N Hovakimyan, "DiffTune-MPC: Closed-Loop Learning for Model Predictive Control," IEEE Robotics and Automation Letters, 2024. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10584257) \| [\[arXiv\]](https://arxiv.org/abs/2312.11384)
 1. Q. Chen, **S. Cheng**, N. Hovakimyan, "Simultaneous Spatial and Temporal Assignment for Fast UAV Trajectory Optimization using Bilevel Optimization," IEEE Robotics and Automation Letters, vol. 8, no. 6, pp. 3860-3867, 2023. [\[paper\]](https://ieeexplore.ieee.org/document/10117594) \| [\[arXiv\]](https://arxiv.org/abs/2211.15902)
 1. **S. Cheng** and D. A. Paley, "Cooperative estimation and control of a diffusion based spatiotemporal process using mobile sensors and actuators," Autonomous Robots, 2023. [\[paper\]](https://link.springer.com/article/10.1007/s10514-023-10105-9) \| [\[video\]](https://youtu.be/i8Lms1cOoyI)
 1. **S. Cheng** and D. A. Paley, "Optimal guidance and estimation of a 2D diffusion-advection process by a team of mobile sensors," Automatica, vol. 137, p. 110112, 2022. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0005109821006415)
@@ -22,10 +22,14 @@ author_profile: true
 --->
 
 **Conference papers**
+1. J. L. Bullock, **S. Cheng**, N. Hovakimyan, A.C. Trujillo, "Robust Path-following Controller for Multirotor Vehicles in Uncertain Wind Conditions," AIAA SciTech Forum, 2025.
+1. M. Kim, **S. Cheng**, Naira Hovakimyan, "Autotuning the Unified Control and Generalized Control Allocation for VTOL Vehicles Using DiffTune," AIAA SciTech Forum, 2025.
+1. J. Kim, J. L. Bullock, **S. Cheng**, Naira Hovakimyan, "Smooth Reference Command Generation and Control for Transition Flight of VTOL Aircraft Using Time-Varying Optimization," AIAA SciTech Forum, 2025.
+1. J. L. Bullock, L. Song, G. Puthumanaillam, Y. Li, **S. Cheng**, M. Ornik, S. Mitra and N. Hovakimyan. "Verification of a Collision Avoidance Controller for a Lift + Cruise Vehicle," AIAA SciTech Forum, 2025.
+1. **S. Cheng**, R. Tao, Y. Gu, S. Wang, X. Wang, N. Hovakimyan, "Task-Parameter Nexus: Task-Specific Parameter Learning for Model-Based Control," under review, 2024. [\[arXiv\]](https://arxiv.org/abs/2412.12448)
 1. Q. Chen*, J. Li*, **S. Cheng**, N. Hovakimyan, Q. Nguyen, "Autotuning Bipedal Locomotion MPC with GRFM-Net for Efficient Sim-to-Real Transfer," under review, 2024. [\[arXiv\]](https://arxiv.org/abs/2409.15710) | [\[video\]](https://youtu.be/bfrBW2hIT1M?si=W5yjNFAxlgv88rm1)
 1. H. Pham*, **S. Cheng***, Z. Han, C. Yang, Q. Luu, N. Hovakimyan, V. Ho, "Collision-resilient Quadrotor with Tombo Propellers and L1Quad," under review, 2024.
-1. **S. Cheng**, Y. Gu, R. Tao, S. Wang, X. Wang, N. Hovakimyan, "Task-Parameter Nexus for Learning Task-Specific  Parameters in Model-Based Control," accepted for presentation at ICRA@40, 2024.
-1. C. Tao, **S. Cheng**, Y. Zhao, F. Wang, N. Hovakimyan, "An Optimization-Based Planner with B-spline Parameterized Continuous-Time Reference Signals," accepted for presentation at the IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024.
+1. C. Tao, **S. Cheng**, Y. Zhao, F. Wang, N. Hovakimyan, "An Optimization-Based Planner with B-spline Parameterized Continuous-Time Reference Signals," in Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024.
 1. Y. Gu, **S. Cheng**, N. Hovakimyan, "Proto-MPC: An Encoder-Prototype-Decoder Approach for Quadrotor Control in Challenging Winds," in Proceedings of the 6th Annual Learning for Dynamics and Control Conference, 2024. [\[arXiv\]](https://arxiv.org/abs/2401.15508)
 1. A. Bansal, Y. Zhao, J. Zhu, **S. Cheng**, Y. Gu, H. Yoon, H. Kim, N. Hovakimyan, L. Sha, "Synergistic Perception and Control Simplex for Verifiable Safe Vertical Landing,” AIAA SciTech Forum, 2024. [\[paper\]](https://arc.aiaa.org/doi/abs/10.2514/6.2024-1167) \| [\[arXiv\]](https://arxiv.org/abs/2312.02937)
 1. J. L. Bullock, **S. Cheng**, A. Patterson, M. Acheson, N. Hovakimyan, I. Gregory, "Reference Command Optimization for the Transition Flight Mode of a Lift Plus Cruise Vehicle," AIAA SciTech Forum, 2024. [\[paper\]](https://arc.aiaa.org/doi/abs/10.2514/6.2024-0721)
@@ -38,6 +42,7 @@ author_profile: true
 1. **S. Cheng** and D. A. Paley, "Optimal control of a 1D diffusion process with a team of mobile actuators under jointly optimal guidance," in Proceedings of the 2020 American Control Conference, pp. 3449-3454, 2020. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9147830) \| [\[slides\]](file/ACC2020_slides_noBackup_public.pptx) \| [\[video\]](https://youtu.be/0avnDGVcMyc)
 1. **S. Cheng** and N. C. Martins, "Reaching a target in a time-costly area using a two-stage optimal control method," in Proceedings of the 2019 American Control Conference, pp. 4903-4910, 2019. [\[paper\]](https://ieeexplore.ieee.org/document/8815119) \| [\[slides\]](file/ACC_2019_Slide.pdf) 
 
-**Workshop papers**
+**Posters and Workshop papers**
+1. **S. Cheng**, Y. Gu, R. Tao, S. Wang, X. Wang, N. Hovakimyan, "Task-Parameter Nexus for Learning Task-Specific Parameters in Model-Based Control," poster at ICRA@40, 2024.
 1. **S. Cheng**, M. Kim, L. Song, Z. Wu, S. Wang, N. Hovakimyan, "An Auto-Tuning Framework for Controllers using Auto-Differentiation," presented at CoRL workshop Learning to Adapt and Improve in the Real World (RoboAdapt), 2022.
 

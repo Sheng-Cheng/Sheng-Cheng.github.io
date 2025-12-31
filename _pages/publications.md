@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+For the most up-to-date publication of mine, please see my [Google Scholar](https://scholar.google.com/citations?user=KFvLTeUAAAAJ&hl=en) page.
+
 **Journal articles**
 1. Z. Wu, **S. Cheng**, P. Zhao, A. Gahlawat, K. A. Ackerman, A. Lakshmanan, C. Yang, J. Yu, N. Hovakimyan, "L1Quad: L1 Adaptive Augmentation of Geometric Control for Agile Quadrotors with Performance Guarantees," IEEE Transactions on Control Systems Technology, 2025. [\[paper\]](https://ieeexplore.ieee.org/document/10820973) \| [\[arxiv\]](https://arxiv.org/abs/2302.07208) \| [\[video\]](https://youtu.be/18-2OqTRJ50) \| [\[code\]](https://github.com/Sheng-Cheng/ardupilot/tree/ACRL-master-L1AC)
 1. H. Lee, **S. Cheng**, Z. Wu, J. Lim, R. Siegwart, N. Hovakimyan, "Geometric Tracking Control of Omnidirectional Multirotors for Aggressive Maneuvers in the Presence of Rotor Dynamics," IEEE Robotics and Automation Letters. [\[paper\]](https://ieeexplore.ieee.org/document/10804067) \| [\[arXiv\]](https://arxiv.org/abs/2209.10024) \| [\[video\]](https://youtu.be/0rpY1bxjegc?si=xYoTVzD3gUKK_iTt)
